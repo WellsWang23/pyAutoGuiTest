@@ -1,20 +1,37 @@
 [
   {
     "type": "click",
-    "x": 820,
-    "y": 543,
-    "text": ""
+    "x": 831,
+    "y": 546,
+    "text": "",
+    "wait_for_change": false
   },
   {
     "type": "input",
-    "x": 212,
-    "y": 190,
-    "text": "3200155129175"
+    "x": 599,
+    "y": 207,
+    "text": "3200155129175",
+    "wait_for_change": false
   },
   {
     "type": "click",
-    "x": 715,
-    "y": 885,
-    "text": ""
+    "x": 740,
+    "y": 887,
+    "text": "",
+    "wait_for_change": false
+  },
+  {
+    "type": "click",
+    "x": 1602,
+    "y": 330,
+    "text": "",
+    "wait_for_change": true
+  },
+  {
+    "type": "click",
+    "x": 1592,
+    "y": 331,
+    "text": "",
+    "wait_for_change": false
   }
 ]
